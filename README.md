@@ -1,14 +1,6 @@
 # Just Do It
 
-Project Name: JustDoIt
-
-# Project Description:-
-
-# Industry Type :-
-
-Lifestyle
-
-# Web Technologies Used :
+# Technologies Used :
 
 HTML
 

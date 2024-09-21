@@ -1,0 +1,47 @@
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VSCode settings
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+
+# Babel or other transpiled files
+.cache/
+*.tsbuildinfo
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temp files
+*.tmp
+*.temp
+
+# Ignore specific test snapshots (if using Jest)
+*.snap

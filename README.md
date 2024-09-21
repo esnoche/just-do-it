@@ -1,6 +1,6 @@
-# GET IT DONE
+# Just Do It
 
-Project Name: GetItDone
+Project Name: JustDoIt
 
 # Project Description:-
 
